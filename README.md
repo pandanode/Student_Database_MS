@@ -103,8 +103,3 @@ ID    Name                 Email                          Year   Dept
 - **Library**: mysql-connector-python
 
 ---
-
-## 👩‍💻 Author
-
-**Tamanna Sharma** — BCA Final Year, MIET Jammu  
-[github.com/Tamanna-Sharma](https://github.com/Tamanna-Sharma)
